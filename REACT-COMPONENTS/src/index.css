@@ -1,0 +1,54 @@
+/* .card {
+	border: 5px solid hsl(0, 2%, 37%);
+	border-radius: 30px;
+	margin: 20px;
+	padding: 10px;
+	width: 24vw;
+	text-align: center;
+}
+img {
+	width: 150px;
+}
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	color: rgb(155, 154, 161) !important;
+	cursor: pointer;
+} */
+/* body {
+	margin: 0;
+	padding: 0;
+}
+.value {
+	font-size: 2rem;
+	font-family: monospace;
+	color: white;
+}
+.increase {
+	font-size: 2rem;
+	font-family: monospace, Helvetica, sans-serif;
+	color: hsl(120, 77%, 55%);
+}
+.decrease {
+	font-size: 2rem;
+	color: hsl(55, 92%, 38%);
+	font-family: monospace, Helvetica, sans-serif;
+}
+.reset {
+	font-size: 2rem;
+	color: hsl(274, 87%, 37%);
+	font-family: monospace, Helvetica, sans-serif;
+}
+.main {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+} */
+body {
+	font-family: monospace;
+	font-size: 2rem;
+}
+#input {
+	width: 100px;
+	height: 50px;
+}
